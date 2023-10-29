@@ -2,6 +2,7 @@
 *.lst
 *.map
 *.gb
+*.sav
 *.ihx
 *.sym
 *.cdb
